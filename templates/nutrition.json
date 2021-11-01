@@ -1,0 +1,851 @@
+[
+    {
+        "item_name": "Freezer Pops, Tropical Punch",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 35,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pop",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "100% Juice, Orange Tangerine",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 130,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ORANGE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), TANGERINE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), NATURAL FLAVORS, CITRIC ACID.",
+        "avg_calories": 16.25
+    },
+    {
+        "item_name": "Splashers, Tropical Twist",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 45,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pouch",
+        "nf_ingredient_statement": "FILTERED WATER, APPLE JUICE FROM CONCENTRATE, PEAR JUICE FROM CONCENTRATE, ASCORBIC ACID (VITAMIN C), CITRIC ACID, NATURAL FLAVORS, PINEAPPLE JUICE FROM CONCENTRATE."
+    },
+    {
+        "item_name": "Fruit Punch",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 100,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), TANGERINE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID, NATURAL FLAVORS."
+    },
+    {
+        "item_name": "100% Juice, Apple",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 110,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": null,
+        "avg_calories": 13.75
+    },
+    {
+        "item_name": "Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 100,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "Apple Juice from Concentrate (Water, Juice Concentrate), Pear Juice from Concentrate (Water, Juice Concentrate), Grape Juice from Concentrate (Water, Juice Concentrate), Strawberry Juice from Concentrate (Water, Juice Concentrate), Kiwi Juice from Concentrate (Water, Juice Concentrate), Natural Flavors, Ascorbic Acid (Vitamin C), Citric Acid."
+    },
+    {
+        "item_name": "Strawberry Watermelon Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 100,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER JUICE CONCENTRATE), WATERMELON JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), STRAWBERRY JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID, NATURAL FLAVORS."
+    },
+    {
+        "item_name": "Splashers, Fruit Punch",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 45,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pouch",
+        "nf_ingredient_statement": "FILTERED WATER, APPLE JUICE FROM CONCENTRATE, PEAR JUICE FROM CONCENTRATE, ASCORBIC ACID (VITAMIN C), CITRIC ACID, NATURAL FLAVORS, CHERRY JUICE FROM CONCENTRATE, RASPBERRY JUICE FROM CONCENTRATE."
+    },
+    {
+        "item_name": "Organic Juice from Concentrate, Apple",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 110,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "ORGANIC APPLE JUICE FROM CONCENTRATE (WATER, ORGANIC JUICE CONCENTRATE), ORGANIC APPLE ESSENCE, ASCORBIC ACID (VITAMIN C), CITRIC ACID.",
+        "avg_calories": 13.75
+    },
+    {
+        "item_name": "Fruitifuls Organics, Punch Splash",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 60,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "WATER, ORGANIC APPLE JUICE CONCENTRATE, ORGANIC PEAR JUICE CONCENTRATE, ORGANIC GRAPE JUICE CONCENTRATE, ASCORBIC ACID (VITAMIN C), CITRIC ACID, NATURAL FLAVORS."
+    },
+    {
+        "item_name": "Kiwi Strawberry Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), STRAWBERRY, JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), KIWI JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), NATURAL FLAVORS, ASCORBIC ACID (VITAMIN C), CITRIC ACID.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Apple Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 110,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": null,
+        "avg_calories": 13.75
+    },
+    {
+        "item_name": "Kiwi Strawberry Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), STRAWBERRY JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), KIWI JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), NATURAL FLAVORS, ASCORBIC ACID (VITAMIN C), CITRIC ACID.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Freezer Pops",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 110,
+        "nf_serving_size_qty": 6,
+        "nf_serving_size_unit": "pops",
+        "nf_ingredient_statement": "Water, Apple Juice from Concentrate, Sugar, Contains 2% or Less of the Following: Natural Flavors, Citric Acid, Sodium Benzoate and Potassium Sorbate (Preservatives)."
+    },
+    {
+        "item_name": "Berry Juice Boxes",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 60,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "Grape Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 70,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), NATURAL FLAVORS, ASCORBIC ACID (VITAMIN C), CITRIC ACID."
+    },
+    {
+        "item_name": "Splashers Organic, Berry Lemonade",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 40,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pouch",
+        "nf_ingredient_statement": "Filtered Water, Organic Apple Juice from Concentrate, Organic Pear Juice from Concentrate, Ascorbic Acid (Vitamin C), Natural Flavors, Citric Acid, Organic Lemon Essence."
+    },
+    {
+        "item_name": "Fruit Juice from Concentrate, Apple",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 60,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "100% Fruit Punch",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 60,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "Flavored Juice Beverage Blend from Concentrate, Orange",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 90,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pouch",
+        "nf_ingredient_statement": "WATER, APPLE JUICE CONCENTRATE, WHEY PROTEIN ISOLATE, NATURAL FLAVORS, CITRIC ACID, ORANGE JUICE CONCENTRATE, ASCORBIC ACID (VITAMIN C), BETA CAROTENE (COLOR)."
+    },
+    {
+        "item_name": "Orange Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 140,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "bottle",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "Bullseye Berry Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 100,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "100% Apple Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 110,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID.",
+        "avg_calories": 13.75
+    },
+    {
+        "item_name": "Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), MANGO PUREE FROM CONCENTRATE (WATER, PUREE CONCENTRATE), NATURAL FLAVORS, ASCORBIC ACID (VITAMIN C), CITRIC ACID.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Peach Apple Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEACH JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID, NATURAL FLAVORS.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Splashers, Peach Mango",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 45,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pouch",
+        "nf_ingredient_statement": "FILTERED WATER, APPLE JUICE FROM CONCENTRATE, PEAR JUICE FROM CONCENTRATE, ASCORBIC ACID (VITAMIN C), CITRIC ACID, NATURAL FLAVORS, PEACH JUICE FROM CONCENTRATE, MANGO JUICE FROM CONCENTRATE."
+    },
+    {
+        "item_name": "Teasers Fruit Juice, Half and Half",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 70,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "bottle",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "Apple Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 140,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "bottle",
+        "nf_ingredient_statement": "water, concentrated apple juice."
+    },
+    {
+        "item_name": "Tropical Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PINEAPPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), NATURAL FLAVORS, ASCORBIC ACID (VITAMIN C), CITRIC ACID.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Splashers",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 45,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pouch",
+        "nf_ingredient_statement": "Filtered Water, Apple Juice from Concentrate, Pear Juice from Concentrate, Ascorbic Acid (Vitamin C), Citric Acid, Natural Flavors, Pineapple Juice from Concentrate."
+    },
+    {
+        "item_name": "Organic Juice, Fruit Punch",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "ORGANIC APPLE JUICE FROM CONCENTRATE (WATER, ORGANIC JUICE CONCENTRATE), ORGANIC PEAR JUICE FROM CONCENTRATE (WATER, ORGANIC JUICE CONCENTRATE), ORGANIC GRAPE JUICE FROM CONCENTRATE (WATER, ORGANIC JUICE CONCENTRATE), VEGETABLE JUICE CONCENTRATE (COLOR), ASCORBIC ACID (VITAMIN C), NATURAL FLAVORS, CITRIC ACID.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Juice Blend, Berry",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": null,
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Fruit Juice, Grape",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 100,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "Apple: Apple Juice from Concentrate (Water, Juice Concentrate), Ascorbic Acid (Vitamin C), Citric Acid. Berry: Apple Juice from Concentrate (Water, Juice Concentrate), Pear Juice from Concentrate (Water, Juice Concentrate), Grape Juice from Concentrate (Water, Juice Concentrate), Raspberry Juice from Concentrate (Water, Juice Concentrate), Natural Flavors, Ascorbic Acid (Vitamin C), Citric Acid. Grape: Apple Juice from Concentrate (Water, Juice Concentrate), Grape Juice from Concentrate (Water, Juice Concentrate), Natural Flavors, Ascorbic Acid (Vitamin C), Citric Acid. Fruit Punch: Apple Juice from Concentrate (Water, Juice Concentrate), Pear Juice from Concentrate (Water, Juice Concentrate), Grape Juice from Concentrate (Water, Juice Concentrate), Tangerine Juice from Concentrate (Water, Juice Concentrate), Natural Flavors, Ascorbic Acid (Vitamin C), Citric Acid."
+    },
+    {
+        "item_name": "Fruit Juice from Concentrate, Apple",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 140,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "bottle",
+        "nf_ingredient_statement": "APPLE JUICE FORM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID"
+    },
+    {
+        "item_name": "Organic Apple",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 70,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "WATER, ORGANIC APPLE JUICE CONCENTRATE, ASCORBIC ACID (VITAMIN C), NATURAL FLAVORS, CITRIC ACID.",
+        "avg_calories": 8.75
+    },
+    {
+        "item_name": "Freezer Pops",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 110,
+        "nf_serving_size_qty": 6,
+        "nf_serving_size_unit": "pops",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "Organic Grape Juice Beverage",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 70,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "WATER, ORGANIC APPLE JUICE CONCENTRATE, ORGANIC PEAR JUICE CONCENTRATE, ORGANIC GRAPE JUICE CONCENTRATE, ASCORBIC ACID (VITAMIN C), VEGETABLE JUICE CONCENTRATE (COLOR), CITRIC ACID, NATURAL FLAVORS.",
+        "avg_calories": 8.75
+    },
+    {
+        "item_name": "Flavored Juice Beverage Blend from Concentrate, Berry Lemonade",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 80,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": null,
+        "avg_calories": 10
+    },
+    {
+        "item_name": "Fruit Punch Juice Blend",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 140,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "bottle",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "Fruit Punch",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), TANGERINE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), NATURAL FLAVORS, ASCORBIC ACID (VITAMIN C), CITRIC ACID.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Grape Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 100,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), NATURAL FLAVORS, CITRIC ACID."
+    },
+    {
+        "item_name": "Apple Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 110,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": null,
+        "avg_calories": 13.75
+    },
+    {
+        "item_name": "Apple Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 110,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID.",
+        "avg_calories": 13.75
+    },
+    {
+        "item_name": "Fruit Punch",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 60,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), TANGERINE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID, NATURAL FLAVORS."
+    },
+    {
+        "item_name": "Apple Raspberry Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), RASPBERRY JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), NATURAL FLAVORS, ASCORBIC ACID (VITAMIN C), CITRIC ACID.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Orange Tangerine Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 110,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ORANGE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), TANGERINE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE). ASCORBIC ACID (VITAMIN C), NATURAL FLAVORS, CITRIC ACID."
+    },
+    {
+        "item_name": "Apple Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 100,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID."
+    },
+    {
+        "item_name": "Teasers, Apple",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 60,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": null,
+        "avg_calories": 7.5
+    },
+    {
+        "item_name": "Teasers Fruit Juice & Real Tea, Peach",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 60,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": null,
+        "avg_calories": 7.5
+    },
+    {
+        "item_name": "Apple Juice, Organic",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 60,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "Organic Apple Juice from Concentrate (Water, Organic Juice Concentrate), Organic Apple Essence, Ascorbic Acid (Vitamin C), Citric Acid."
+    },
+    {
+        "item_name": "Berry Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": null,
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Splashers",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 45,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pouch",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "Cherry",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), CHERRY JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), NATURAL FLAVORS, CITRIC ACID.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Grape Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 140,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "bottle",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "Splashers, Organic",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 40,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pouch",
+        "nf_ingredient_statement": "Filtered Water, Organic Apple Juice from Concentrate, Organic Pear Juice from Concentrate, Ascorbic Acid (Vitamin C), Organic Cherry Juice from Concentrate, Citric Acid, Natural Flavors."
+    },
+    {
+        "item_name": "Splashers Organic, Tropical Twist",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 40,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pouch",
+        "nf_ingredient_statement": "Filtered Water, Organic Apple Juice from Concentrate, Organic Pear Juice from Concentrate, Ascorbic Acid (Vitamin C), Citric Acid, Natural Flavors, Organic Pineapple Essence."
+    },
+    {
+        "item_name": "Cranberry Apple Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 110,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), CRANBERRY JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), FRUIT AND VEGETABLE JUICE CONCENTRATE (COLOR), ASCORBIC ACID (VITAMIN C), NATURAL FLAVORS, CITRIC ACID.",
+        "avg_calories": 13.75
+    },
+    {
+        "item_name": "Fruit Juice, Orange Tangerine",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 140,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "bottle",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "Apple Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 110,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "bottle",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "Fruitifuls Organics, Apple Quench",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 60,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "WATER, ORGANIC APPLE JUICE CONCENTRATE, ASCORBIC ACID (VITAMIN C), CITRIC ACID, NATURAL FLAVORS."
+    },
+    {
+        "item_name": "Fruit Punch",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "bottle",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "Organic Fruit Punch",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 70,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": null,
+        "avg_calories": 8.75
+    },
+    {
+        "item_name": "Freezer Pops, Kiwi-Strawberry",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 35,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pop",
+        "nf_ingredient_statement": "WATER, CANE SUGAR, FRUIT JUICE (CONTAINS ONE OR MORE OF THE FOLLOWING: APPLE OR PEAR JUICE FROM CONCENTRATE), CITRIC ACID, NATURAL FLAVORING, ARTIFICIAL COLORING (RED 40), VEGETABLE GUMS, LESS THAN 1/10 OF 1% OF SODIUM BENZOATE AND POTASSIUM SORBATE AS PRESERVATIVE."
+    },
+    {
+        "item_name": "Freezer Pops, Grape Splash",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 35,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pop",
+        "nf_ingredient_statement": "WATER, CANE SUGAR, FRUIT JUICE (CONTAINS ONE OR MORE OF THE FOLLOWING: APPLE OR PEAR JUICE FROM CONCENTRATE), CITRIC ACID, NATURAL FLAVORING, ARTIFICIAL COLORING (BLUE 1, RED 40), VEGETABLE GUMS, LESS THAN 1/10 OF 1% OF SODIUM BENZOATE AND POTASSIUM SORBATE AS PRESERVATIVE."
+    },
+    {
+        "item_name": "100% Juice, Cherry",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), CHERRY JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), NATURAL FLAVORS, CITRIC ACID.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Kiwi Strawberry Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "Apple Juice from Concentrate (Water, Juice Concentrate), Pear Juice from Concentrate (Water, Juice Concentrate), Grape Juice from Concentrate (Water, Juice Concentrate), Strawberry Juice from Concentrate (Water, Juice Concentrate), Kiwi Juice from Concentrate (Water, Juice Concentrate), Natural Flavors, Ascorbic Acid (Vitamin C), Citric Acid.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Fruit Punch",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), TANGERINE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), NATURAL FLAVORS, ASCORBIC ACID (VITAMIN C), CITRIC ACID.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Orange Tangerine Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 70,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ORANGE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), TANGERINE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), NATURAL FLAVORS, ASCORBIC ACID (VITAMIN C), CITRIC ACID."
+    },
+    {
+        "item_name": "Berry Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), RASPBERRY JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID, NATURAL FLAVORS.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Apple",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 60,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID."
+    },
+    {
+        "item_name": "Fruit Juice, White Grape",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 150,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), WHITE GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID, NATURAL FLAVORS.",
+        "avg_calories": 18.75
+    },
+    {
+        "item_name": "Apple Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 60,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID."
+    },
+    {
+        "item_name": "Grape Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), NATURAL FLAVORS, CITRIC ACID.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Strawberry Watermelon Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), WATERMELON JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), STRAWBERRY JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), FRUIT AND VEGETABLE JUICE CONCENTRATE (COLOR), CITRIC ACID, NATURAL FLAVORS.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Fruit Juice, Splashers",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 45,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pouch",
+        "nf_ingredient_statement": "FILTERED WATER, APPLE JUICE FROM CONCENTRATE, PEAR JUICE FROM CONCENTRATE, ASCORBIC ACID (VITAMIN C), CITRIC ACID, NATURAL FLAVORS, PEACH JUICE FROM CONCENTRATE, MANGO JUICE FROM CONCENTRATE."
+    },
+    {
+        "item_name": "Splashers, Berry Lemonade",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 45,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pouch",
+        "nf_ingredient_statement": "FILTERED WATER, APPLE JUICE FROM CONCENTRATE, PEAR JUICE FROM CONCENTRATE, NATURAL FLAVORS, ASCORBIC ACID (VITAMIN C), CITRIC ACID, LEMON JUICE FROM CONCENTRATE, CHERRY JUICE FROM CONCENTRATE, RASPBERRY JUICE FROM CONCENTRATE."
+    },
+    {
+        "item_name": "Fruit Punch",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 45,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pouch",
+        "nf_ingredient_statement": "Filtered Water, Apple Juice from Concentrate, Pear Juice from Concentrate, Ascorbic Acid (Vitamin C), Citric Acid, Natural Flavors, Cherry Juice from Concentrate, Raspberry Juice from Concentrate."
+    },
+    {
+        "item_name": "Apple Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 110,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID.",
+        "avg_calories": 13.75
+    },
+    {
+        "item_name": "Splashers Fruit Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 45,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "pouch",
+        "nf_ingredient_statement": "Filtered Water, Apple Juice from Concentrate, Pear Juice from Concentrate, Natural Flavors, Ascorbic Acid (Vitamin C), Citric Acid, Lemon Juice from Concentrate, Cherry Juice from Concentrate, Raspberry Juice from Concentrate."
+    },
+    {
+        "item_name": "Fruit Punch",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), TANGERINE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID, NATURAL FLAVORS.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Berry Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 100,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), RASPBERRY JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), CITRIC ACID, NATURAL FLAVORS."
+    },
+    {
+        "item_name": "Strawberry Banana Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), STRAWBERRY JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), NATURAL FLAVORS, BANANA PUREE, ASCORBIC ACID (VITAMIN C), CITRIC ACID.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Passion Dragonfruit Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PASSION FRUIT JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), FRUIT AND VEGETABLE JUICE CONCENTRATE (COLOR), ASCORBIC ACID (VITAMIN C), DRAGONFRUIT PUREE, CITRIC ACID, NATURAL FLAVORS.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Orange Tangerine Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 130,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), PEAR JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ORANGE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), TANGERINE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), NATURAL FLAVORS, CITRIC ACID.",
+        "avg_calories": 16.25
+    },
+    {
+        "item_name": "100% Grape Juice",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 120,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": "APPLE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), GRAPE JUICE FROM CONCENTRATE (WATER, JUICE CONCENTRATE), ASCORBIC ACID (VITAMIN C), NATURAL FLAVORS, CITRIC ACID.",
+        "avg_calories": 15
+    },
+    {
+        "item_name": "Fruit Juice, Orange",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 110,
+        "nf_serving_size_qty": 8,
+        "nf_serving_size_unit": "fl oz",
+        "nf_ingredient_statement": null,
+        "avg_calories": 13.75
+    },
+    {
+        "item_name": "Fruit Punch",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 60,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "Organic Apple Juice from Concentrate (Water, Organic Juice Concentrate), Organic Pear Juice from Concentrate (Water, Organic Juice Concentrate), Organic Grape Juice from Concentrate (Water, Organic Juice Concentrate), Ascorbic Acid (Vitamin C), Natural Flavors, Citric Acid."
+    },
+    {
+        "item_name": "Fruit Juice from Concentrate, Apple",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 160,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "can",
+        "nf_ingredient_statement": null
+    },
+    {
+        "item_name": "Fruitifuls Organics, Cerry Cherry Burst",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 60,
+        "nf_serving_size_qty": 1,
+        "nf_serving_size_unit": "box",
+        "nf_ingredient_statement": "WATER, ORGANIC APPLE JUICE CONCENTRATE, ORGANIC PEAR JUICE CONCENTRATE, ORGANIC GRAPE JUICE CONCENTRATE, ASCORBIC ACID (VITAMIN C), ORGANIC CHERRY JUICE CONCENTRATE, ORGANIC RASPBERRY JUICE CONCENTRATE, CITRIC ACID, NATURAL FLAVORS."
+    },
+    {
+        "item_name": "Freezer Pops",
+        "brand_name": "Juicy Juice",
+        "brand_id": "51db37d0176fe9790a899db2",
+        "nf_calories": 110,
+        "nf_serving_size_qty": 4,
+        "nf_serving_size_unit": "pops",
+        "nf_ingredient_statement": "WATER, APPLE JUICE FROM CONCENTRATE, SUGAR, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL FLAVORS, CITRIC ACID, SODIUM BENZOATE AND POTASSIUM SORBATE (PRESERVATIVES)."
+    }
+]
