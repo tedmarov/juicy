@@ -1,6 +1,6 @@
 # juicy
 
-Flask was used
+Flask was used to make the rest of these imports work
 
 Requests was imported to bring in the API
 
